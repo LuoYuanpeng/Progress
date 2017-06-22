@@ -1,0 +1,24 @@
+/*
+* @Author: Loon
+* @Date:   2017-06-23 02:41:22
+* @Last Modified by:   Loon
+* @Last Modified time: 2017-06-23 04:26:44
+*/
+@charset "utf-8";
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.pg-wrapper {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background-color: #ddd;
+}
+
+#pg{
+	height: 100%;
+	background-color: #64e7fc;
+}
